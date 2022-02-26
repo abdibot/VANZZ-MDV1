@@ -11,19 +11,19 @@ const { state, saveState } = useSingleFileAuthState(sesion)
 
 const start = async () => {
     //Meng weem
-	console.log(color(figlet.textSync('Chika Bot MD', {
+	console.log(color(figlet.textSync('VANZZ-MDV1', {
 		font: 'Standard',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
 		whitespaceBreak: false
 	}), 'cyan'))
-	console.log(color('[ By Rashidsiregar28 ]'))
+	console.log(color('[ By VANZZ OFC]'))
     // set level pino ke fatal kalo ga mau nampilin log eror
     const chika = makeWASocket({ printQRInTerminal: true, logger: P({ level: 'debug' }), auth: state }) 
     chika.multi = true
     chika.nopref = false
     chika.prefa = 'anjing'
-    console.log(color('Connected....'))
+    console.log(color('Connected Jangan Lupa Subscribe VANZZ OFC'))
     chika.ev.on('messages.upsert', async m => {
     	if (!m.messages) return
         const msg = m.messages[0]
