@@ -80,7 +80,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
     return `
 *Selamat ${salam} ${pushname} 😖*
 *⌚Time Server : ${time}*
-*📚 List-Menu Chika Beta :*
+*📚 List-Menu VANZZ Beta :*
 
 🤖 *INFO*
 ├ ${prefix}owner
@@ -134,6 +134,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 
 🙏 *THANKS*
 ├ Xfarr api
+├VANZZ OFC (RECORD)
 ├ Baileys#multi-device
 ├ and all support
 └──────
@@ -167,12 +168,12 @@ Sanksi: *‼️ PERMANENT BLOCK ‼️*
 ➡️ Bot ini menggunakan multi prefix. Berarti anda bisa menggunakan prefix #, . , Dan prefix wajar lainnya.
 
 🗯️ Kak, kok syaa chat owner tidak direspon?
-➡️ Owner hanya merespon pertanyaan seputar bot Dan kendala eror, tidak untuk kenalan ataupun mengemis script.
+➡️ Owner hanya merespon pertanyaan seputar bot Dan owner cuman menerima sv cewek, tidak untuk cowok ataupun mengemis script.
 
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan ChikaBot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan VANZZ di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
 Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan chika-bot
 😖🙏
@@ -187,7 +188,7 @@ exports.tos = (ownerNumber, prefix) => {
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 08127668234 (OVO/Dana/GoPay)
+🏧 083856885495 (OVO/Dana/GoPay)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
